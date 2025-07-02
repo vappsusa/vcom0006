@@ -1,0 +1,1 @@
+// Demo route for Sarah Chen's profile - showcases the professional profile system\nimport ProfessionalProfilePage from '../[username]/page'\n\nexport default function SarahChenProfilePage() {\n  return <ProfessionalProfilePage params={{ username: 'sarah-chen' }} />\n}
